@@ -1,4 +1,4 @@
-Just open the file yyAss1.ipynb and click Run all then it can be run.
+Just open the file LELA60331_studentnumber14195645.ipynb and click Run all then it can be run.
 
 It has five part:
 
